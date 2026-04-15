@@ -1,0 +1,278 @@
+*{
+    height:100%;
+    width:100%;
+    background-color: rgb(4, 62, 87) ;
+    align-items: center;
+}
+
+
+#d1{
+    height:55%;
+    width:30%;
+    position:relative;
+    background-color: whit;
+    margin: 0% 35% ;
+   
+   border-radius: 4%; 
+   padding-top: 8%;
+}
+#d11{
+    height:25%;
+    width:100%;
+    background-color:white ;
+    color:black;
+    text-align: center;
+    position:relative;
+    font-size: 60px;
+    padding-top: 15%;
+    border-top: 5px solid black;
+}
+#d12{
+    height:25%;
+    width:100%;
+    background-color:white;
+    display:flex;
+}
+#d121{
+    height:100%;
+    width:30%;
+    background-color:white;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 15%;
+}
+#d122{
+    height:100%;
+    width:70%;
+    background-color:white;
+}
+#i1{
+    height:20%;
+    width:80%;
+   background-color:white;
+    margin-top: 10%;
+}
+#d13{
+    height:25%;
+    width:100%;
+    background-color:white ;
+    display:flex;
+}
+#d131{
+    height:100%;
+    width:30%;
+    background-color:white;
+    color:black;
+    font-size: 20px;
+    text-align: center;
+}
+#d132{
+    height:100%;
+    width:70%;
+    background-color:white;
+}
+#i2{
+    height:20%;
+    width:80%;
+    background-color:white;
+}
+#d14{
+    height:25%;
+    width:100%;
+    background-color:white;
+    text-align: center;
+    border-bottom: 5px solid black;
+    
+}
+#b1{
+    height:25%;
+    width:35%;
+    background-color:black;
+    color:white;
+    font-size: 20px;
+}
+#d2{
+    height:100%;
+    width:100%;
+    background-color:;
+    
+    background-repeat: ;
+}
+#d21{
+    height:30%;
+    width:100%;
+    background-color:;
+    font-size: 55px;
+    color:white;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+}
+#d211{
+    height:30%;
+    width:100%;
+    background-color:;
+    font-size: 55px;
+    color:white;
+    text-align: center;
+    padding-top: 5%;
+    
+}  
+#d22{
+    height:20%;
+    width:100%;
+    background-color: red;
+    display:flex;
+}
+#d221{
+    height:100%;
+    width:25%;
+    background-color: ;
+    text-align: center;
+    justify-content: space-around;
+}
+#d222{
+    height:100%;
+    width:25%;
+    background-color:;
+     text-align: center;
+}
+#d223{
+    height:100%;
+    width:25%;
+    background-color:;
+     text-align: center;
+}
+#d224{
+    height:100%;
+    width:25%;
+    background-color:;
+     text-align: center;
+}
+#d225{
+    height:30%;
+    width:10%;
+    background-color:;
+     text-align: center;
+     color:white;
+}
+.b3{
+    height:25%;
+    width:35%;
+    background-color:;
+    color:white;
+    font-size: 20px;
+}
+#d23{
+    height:50%;
+    width:100%;
+    background-color:;
+    text-align: center;
+    
+}
+#d3{
+    height:100%;
+    width:100%;
+    background-color:rgb(4, 62, 87) ;
+}
+#d31{
+    height:15%;
+    width:100%;
+    text-align:center;
+    font-size: 45px;
+    color:white;
+
+}
+#d32{
+    height:20%;
+    width:100%;
+    text-align:;
+    font-size:;
+    color:white;
+    display:flex;
+}
+#d321{
+    height:100%;
+    width:25%;
+    text-align:;
+    font-size:;
+    color:white;
+    display:flex;
+    background-color:;
+}
+#d322{
+    height:100%;
+    width:25%;
+    text-align:;
+    font-size:;
+    color:white;
+    display:flex;
+}
+#d323{
+    height:100%;
+    width:25%;
+    text-align:;
+    font-size:;
+    color:white;
+    display:flex;
+}
+#d324{
+    height:100%;
+    width:25%;
+    text-align:;
+    font-size:;
+    color:white;
+    display:flex;
+}
+#d33{
+    height:15%;
+    width:100%;
+    text-align:center;
+    font-size: 5px;
+    color:white;
+}
+#b4{
+    height:30%;
+    width:10%;
+    color:white;
+    font-size: 25px;
+    MARGIN-top: 5%;
+}
+.d3211{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 30%;
+    padding-left: 0%;
+    text-align: ;
+}
+.d3212{
+    height:30%;
+    width:100%;
+    background-color: white;
+    margin-top: 25%;
+    font-size: 20px;
+}
+#d5{
+    height:100%;
+    width:100%;
+}
+#d51{
+    height:10%;
+    width:100%;
+    color:white;
+    font-size: 45px;
+    text-align: center;
+}
+#d52{
+    height:50%;
+    width:100%;
+    color:white;
+    font-size: 35px;
+    text-align: center;
+}
+.t1{
+    width:10%;
+    text-align: center;
+    height:10%;
+}
